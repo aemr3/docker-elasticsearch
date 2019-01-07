@@ -2,8 +2,6 @@
 
 Ready to use, lean and highly configurable Elasticsearch container image.
 
-[![Docker Repository on Quay.io](https://quay.io/repository/pires/docker-elasticsearch/status "Docker Repository on Quay.io")](https://quay.io/repository/pires/docker-elasticsearch)
-
 ## Current software
 
 * Alpine Linux 3.8
